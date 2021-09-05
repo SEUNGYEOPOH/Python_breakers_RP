@@ -16,20 +16,21 @@
 
 
 # :cyclone:Activity details
-- weeks 2 : 변수, 제어문, 함수와 입출력 다루기
-  - 🌕 quest1 : [quest1.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
-  - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+## weeks 2 : 변수, 제어문, 함수와 입출력 다루기
+- 🌕 quest1 : [quest1.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
+- 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
 
 <Br>
   
-- weeks 3 : 함수응용(예외처리 포함)
-  - :waxing_gibbous_moon: quest2 : [quest2.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest2.ipynb)
-  - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+## weeks 3 : 함수응용(예외처리 포함)
+- :waxing_gibbous_moon: quest2 : [quest2.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest2.ipynb)
+- 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
   
 <br>
-
-- weeks 4 : Repositories를 만들고 Readme.md 관리
-  - 🌓 quest3 : [README.md](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/README.md)
+  
+## weeks 4 : Repositories를 만들고 Readme.md 관리
+  
+- 🌓 quest3 : [README.md](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/README.md)
 <br>
 
 # :shipit: Next level
