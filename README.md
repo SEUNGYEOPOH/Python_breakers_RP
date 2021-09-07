@@ -4,6 +4,7 @@
 <p align="center">
   <img src = "https://img.shields.io/badge/Repositories-4-skyblue">
   <img src = "https://img.shields.io/badge/issues-0-9cf">
+  <img src = "https://img.shields.io/badge/fork-1-skygreen">
   <img src = "https://img.shields.io/badge/pull requests-1-green"> <br/><br/>
   </p>
 <br>
