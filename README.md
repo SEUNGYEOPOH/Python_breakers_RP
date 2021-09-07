@@ -2,7 +2,7 @@
 <img src ="https://user-images.githubusercontent.com/81912557/132134164-882e047f-2168-4b2d-b041-3e0dea06662e.PNG">
 </h1>
 <p align="center">
-  <img src = "https://img.shields.io/badge/Repositories-4-skyblue">
+  <img src = "https://img.shields.io/badge/Repositories-5-skyblue">
   <img src = "https://img.shields.io/badge/issues-0-9cf">
   <img src = "https://img.shields.io/badge/fork-1-skygreen">
   <img src = "https://img.shields.io/badge/pull requests-1-green"> <br/><br/>
