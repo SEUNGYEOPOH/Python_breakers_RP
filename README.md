@@ -16,7 +16,7 @@
 <br>
 
 
-# :cyclone:Activity details
+# 🌀: Activity details
 ## weeks 2 : 변수, 제어문, 함수와 입출력 다루기
 - 🌕 quest1 : [quest1.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
 - 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
@@ -34,13 +34,13 @@
 - 🌓 quest3 : [README.md](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/README.md)
 <br>
 
-# :shipit: Next level
+# :shipit:: Next level
 - Machine Learning 공부 및 배운내용 적용하기<br>
  [ML공부](https://github.com/SEUNGYEOPOH/ML/blob/main/README.md)
 <br>
   
   
-# :mag: Contact
+# 🔍: Contact
 - 13056650@naver.com
 - dhwmd08@kpu.ac.kr
 
