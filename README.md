@@ -32,7 +32,7 @@
 ## weeks 4 : Repositories를 만들고 Readme.md 관리
   
 - 🌓 quest3 : [README.md](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/README.md)
-- ⤵️: A simple way to git :[git]()  
+- ⤵️: A simple way use to git :[git](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/A%20simple%20way%20to%20use%20git.md)  
 <br>
   
 ## weeks 5 : DataFrame
