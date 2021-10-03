@@ -18,34 +18,45 @@
 
 # 🌀: Activity details
 ## weeks 2 : 변수, 제어문, 함수와 입출력 다루기
-- 🌕 quest1 : [quest1.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
-- 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+- 🌕 quest1 : [quest1](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
+- 문제 출처: [파뿌리 1주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
 
 <Br>
   
 ## weeks 3 : 함수응용(예외처리 포함)
-- :waxing_gibbous_moon: quest2 : [quest2.ipynb](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest2.ipynb)
-- 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+- :waxing_gibbous_moon: quest2: [quest2](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/quest2.ipynb)
+- 문제 출처:[파뿌리 2주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
   
 <br>
   
 ## weeks 4 : Repositories를 만들고 Readme.md 관리
   
 - 🌓 quest3 : [README.md](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/README.md)
+- ⤵️: A simple way to git :[git]()  
 <br>
   
 ## weeks 5 : Dataframe
-- 🌒 quest4 : [](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest2.ipynb)
-- 문제 출처: https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/5%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+- 🌒 quest4 : [quest3](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/quest3.ipynb)
+- 문제 출처: [파뿌리 5주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
+  
+## weeks 6 : 변수, 제어문, 함수와 입출력 다루기
+- 🌑 practice file : [6-1_practice](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/6-1_practice.ipynb)
+
+<Br>
+
+## weeks 7 : EDA
+- 🌘 practice file : [7-1_practice](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/7-1_practice.ipynb)
+
+<Br>
   
 
-# :shipit:: Next level
+# 🎖️ Next level
 - Machine Learning 공부 및 배운내용 적용하기<br>
  [ML공부](https://github.com/SEUNGYEOPOH/ML/blob/main/README.md)
 <br>
   
   
-# 🔍: Contact
+# 🔍 Contact
 - 13056650@naver.com
 - dhwmd08@kpu.ac.kr
 
