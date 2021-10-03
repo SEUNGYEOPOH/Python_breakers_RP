@@ -39,10 +39,11 @@
 - 🌒 quest4 : [quest4](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/quest3.ipynb)
 - ❕ EXCEL,CSV Files : [Data Frame](https://github.com/SEUNGYEOPOH/Python_breakers_RP/tree/main/dataframe)
 - 🤚 문제 출처: [파뿌리 5주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/5%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
+<br>
   
-## weeks 6 : 변수, 제어문, 함수와 입출력 다루기
+## weeks 6 : Data Preprocessing
 - 🌑 practice file : [6-1_practice](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/6-1_practice.ipynb)
-- ❕ EXCEL,CSV Files : [Data]()
+- ❕ EXCEL,CSV Files : [Data](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/dataframe/auto-mpg.csv)
 <Br>
 
 ## weeks 7 : EDA
