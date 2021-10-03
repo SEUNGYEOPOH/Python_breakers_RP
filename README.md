@@ -16,7 +16,7 @@
 <br>
 
 
-# 🌀: Activity details
+# 🌀 Activity details
 ## weeks 2 : 변수, 제어문, 함수와 입출력 다루기
 - 🌕 quest1 : [quest1](https://github.com/SEUNGYEOPOH/git_test_2/blob/master/quest1.ipynb)
 - 🤚 문제 출처: [파뿌리 1주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
