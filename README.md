@@ -47,7 +47,8 @@
 <Br>
 
 ## weeks 7 : EDA
-- 🌘 practice file : [7-1_practice](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/7-1_practice.ipynb)
+- 🌘 quest5 : [quest5](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/quest5.ipynb)  
+- 🐧 practice file : [7-1_practice](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/7-1_practice.ipynb)
 - 🤚 문제 출처 : [파뿌리 7주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/7%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
 <Br>
   
