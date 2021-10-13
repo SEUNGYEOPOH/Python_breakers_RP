@@ -61,7 +61,26 @@
 ![dataframe](https://user-images.githubusercontent.com/81912557/137123523-056f23e0-c8fc-44eb-b250-9e70a96ef0a7.PNG)<br>
 - DataFrame은 다양한 format으로 import.export하여 다른 파일을 읽어올 수 있다.(csv,excel,json 등)
 - DataFrame.loc[인덱스 이름] or DataFrame.iloc[정수형 위치 인덱스]로 행에 대해 접근할 수 있다.
-- DataFrame.[열이름] or DataFrame.[정수형 위치 인덱스]로 열에 대해 접근할 수 있다.
+- DataFrame[열이름] or DataFrame[정수형 위치 인덱스]로 열에 대해 접근할 수 있다.<br>
+
+Pandas는 다양한 함수를 지원한다.<br>
+
+- read_excel()<br>
+read_excel()을 통해 excel 파일을 DataFrane 구조로 가져올 수 있다.
+![pandas_read](https://user-images.githubusercontent.com/81912557/137126426-fee00fd3-5ac0-44a7-a1d1-bad6c9b8fad3.PNG)
+- info()<br>
+DataFrame의 정보를 확인할 수 있다.<br>
+![info](https://user-images.githubusercontent.com/81912557/137126512-574864c4-63e2-4bf1-a69e-2a75e05f13bd.PNG)
+- describe()<br>
+DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
+![des](https://user-images.githubusercontent.com/81912557/137126481-141b2df1-43e1-49e6-88e8-c0f24bcbde74.PNG)<br>
+
+- 위의 horsepower 컬럼의 NaN 값이 있으므로 결측치거 있음을 알 수 있다. -> 해당 컬럼은 float형태인데 결측값이 ?로 들어가서 NaN이 나온 상황
+
+      결측치 처리 방법
+      1.평균 값으로 대체
+      2.numpy.float으로 형변환
+      3.numpy.nan으로 교체
 
   
            
