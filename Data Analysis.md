@@ -43,7 +43,8 @@
        3. 특징 추출 
     
 ### 2.1.4. Modeling
-- dd
+- 시스템(체계)적인 특성을 수학적으로 표현하는 과정(수식화)이며 정량적으로 표현되도록 수학적 언어로 전환시키는 과정이다.<br>
+좋은 모델링 -> 컴퓨터를 이용하여 해석,시뮬레이션,설계하기 쉬운 모델
 
 - Modeling  
  
@@ -110,6 +111,31 @@ DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
        3. Box-plot
        '''
 ### 1.2.1 시각화 예시
+- jointplot(kind="reg")<br>
+  회귀 그래프<br>
+  그림자는 회귀선의 분산<Br>
+  2개의 연속형 변수 관계 파악시 유용<br>
+![joint2](https://user-images.githubusercontent.com/81912557/137147620-67684443-cc6b-467b-8aaa-357ff120acc9.PNG)
+- jointplot(kind="scatter")<br>
+  scatter, 산점도 그래프<br>
+  두 변수 간의 상관관계 표현하기 유용<br>
+![joint](https://user-images.githubusercontent.com/81912557/137148366-2d6965a2-c6d0-49ab-8eb7-1b792ec8f638.PNG)
+- jointplot(kind="hex")<br>
+  헥스 그래프로 표현<br>
+![hex](https://user-images.githubusercontent.com/81912557/137148092-550c3c86-7859-48ed-a7f0-2c25db350d31.PNG)
+- jointplot(kind="resid")<br>
+  두 변수의 관점에서 잔차를 보여줌
+![resid](https://user-images.githubusercontent.com/81912557/137148100-19fa723c-254e-44cb-b2ed-a53e49b70b17.PNG)
+- jointplot(kind="kde")<br>
+  등고선그레프.<br>
+  두 변수간의 관계를 범위로 보여줌.<br>
+  뭉쳐있을수록 고점.<br>
+  양 옆 그래프는 적분 값.<br>
+![dungo](https://user-images.githubusercontent.com/81912557/137148374-90a51d36-03bf-4d9a-9ed7-007bcbf1fadd.PNG)<br>
+- pairplot()<br>
+  grid 형태로 각 집합의 조합에 히스토그램과 분포도를 그림.<br>
+  수치형 Data가 입력된 컬럼 별 상관관계나 분류적 특성을 확인하고 싶을 때 유용<br>
+![pairplot](https://user-images.githubusercontent.com/81912557/137148105-de795302-921f-4d1c-b057-ac5b9e2a6e3a.PNG)
 ### 1.2.2 pearson's correlation coefficient
 - 피어슨 상관 계수란 두 변수 X 와 Y 간의 선형 상관 관계를 계량화한 수치다.
 #### 양적인 두 변수 간의 관계
