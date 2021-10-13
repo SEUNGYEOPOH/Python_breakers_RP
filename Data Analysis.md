@@ -37,17 +37,36 @@
     2. 자원 축소
     4. 특징 추출 
 ### 2.1.4. Modeling
-- 데이터 전처리는 데이터 분석 과정의 대부분을 차지할 정도로 굉장히 중요한 작업이다. Data set은 보통 바로 분석이 불가능하다.(Messy 하기 때문) 분석이 가능한 상태로 만드는 것이 데이터 전처리이다. 
+- dd
 
 - Modeling 
     1. 예측 모델링
     2. 분류 모델링
     3. 결과 해석 
- 
  # 관련 라이브러리
- ## Pandas
- ## Seaborn
- ## Matplotlib
+ ## 1.1. Pandas
+ - Pandas는 데이터 조작 및 분석을 위해 Python 프로그래밍 언어로 작성된 소프트웨어 라이브러리이다. 특히 숫자 Table과 시계열을 조작하기 위한 데이터 구조와 연산을 제공한다.
+ - Pandas의 대표적인 Data object는 2가지가 있다.
+ 
+  ### 1.1.1 Series 
+  Series는 1차원 배열의 형태이고 index라는 한 가지 기준에 의하여 데이터가 저장된다.<br>
+  Dictionary와 비슷하게 index와 value가 1:1 대응이다.<br>
+  Series는 정수형 index 이름형 index 모두 접근 가능하다.<br>
+
+![series](https://user-images.githubusercontent.com/81912557/137123437-69851aac-39ec-403a-88d5-7d6092a40270.PNG)
+       
+  ### 1.1.2 DataFrame
+  Dataframe은 2차원 배열의 형태를 갖는다. index와 column이라는 두 가지 기준에 의하여 표 형태처럼 Data가 저장된다.<br>
+  흔히 알고 있는 Table형태와 동일하다.
+![dataframe](https://user-images.githubusercontent.com/81912557/137123523-056f23e0-c8fc-44eb-b250-9e70a96ef0a7.PNG)
+- DataFrame은 다양한 format으로 import.export하여 다른 파일을 읽어올 수 있다.(csv,excel,json 등)
+- DataFrame.loc[인덱스 이름] or DataFrame.iloc[정수형 위치 인덱스]로 행에 대해 접근할 수 있다.
+- DataFrame.[열이름] or DataFrame.[정수형 위치 인덱스]로 열에 대해 접근할 수 있다.
+
+  
+           
+ ## 1.2. Seaborn
+ ## 1.3. Matplotlib
 
 
 
