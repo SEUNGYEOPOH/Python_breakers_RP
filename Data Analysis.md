@@ -171,9 +171,10 @@ DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
   이상값이 자연발생한 경우 delete/replace를 통해 Model을 만든다면? -> 현상/예측을 잘 설명할 수 없을 수도 있음.<br>
   
 - c. 이상치가 자연발생 했을 경우의 방법<br>
-  1. 변수화<br>
-  2. resampling<br>
-  3. case 분리 해석<br>
+ 
+       1. 변수화
+       2. resampling
+       3. case 분리 해석
 
 ex. Boxplot을 이용한 이상치 검색<br>
 ![out](https://user-images.githubusercontent.com/81912557/137131457-4417ce30-8a57-46f9-bda9-f261ae6b7579.PNG)
