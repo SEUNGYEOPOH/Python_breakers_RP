@@ -84,9 +84,50 @@ DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
 
   
            
- ## 1.2. Seaborn
- ## 1.3. Matplotlib
+ ## 1.2. Matplotlib, Seaborn
+ - Matplotlib은 다양한 데이터를 많은 방법으로 도식화(시각화) 할 수 있도록 하는 파이썬 라이브러리이다.<br>
+ 
+       Matplotlib
+       기본적인 차트와 plotting에 충실하다.
+       1. Bar-chart
+       2. Pie-chart
+       3. Line-chart
+       '''
+ - Seaborn은 Matplotlib을 기반으로 다양한 색상 테마와 통계용 차트 등의 기능을 추가한 시각화 패키지이다. 기본적인 시각화 기능은 Matplotlib에 의존한다. 
+ 
+       Seaborn
+       Matplotlib에 기반을 두어 통계 데이터 시각화에 최적화된 라이브러리
+       1. Scatter
+       2. Hitmap
+       3. Box-plot
+       '''
+### 1.2.1 시각화 예시
+1.
 
+### 1.2.2 outliar(이상치)
+- 전체적인 Data/Model에서 동떨어진 관측값으로 Model을 크게 왜곡 시킬 가능성이 있음.
+- 일반적으로 6σ(표준편차) 즉 +- 3표준편차에 해당하는 값을 이상치라고 봄
+- 목적과 자료에따라 3σ,4σ,5σ로도 설정.
+
+#### 이상치를 찾는 가장 직관적인 방법은 시각화.
+- 시각화를 통해서 이상치를 주관적으로 확인할 수 있음.
+
+#### outliar를 찾았다면
+- a. 단순 삭제<br>
+  Human error에 의한 경우 해당 관측치를 삭제하면 됨.<br>
+  ex.오타,주관식 설문 등의 비현실적인 응답, 처리과정에서의 error<br>
+  
+- b. 대체<br>
+  결측값과 유사하게 다른 변수들을 사용해서 예측 model을 만듬?-> 이상값을 예측한 후 해당 값으로 대체.<br>
+  이상값이 자연발생한 경우 delete/replace를 통해 Model을 만든다면? -> 현상/예측을 잘 설명할 수 없을 수도 있음.<br>
+  
+- c. 이상치가 자연발생 했을 경우의 방법<br>
+  1. 변수화<br>
+  2. resampling<br>
+  3. case 분리 해석<br>
+
+ex. Boxplot을 이용한 이상치 검색
+![out](https://user-images.githubusercontent.com/81912557/137131457-4417ce30-8a57-46f9-bda9-f261ae6b7579.PNG)
 
 
 
