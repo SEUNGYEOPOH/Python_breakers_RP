@@ -14,35 +14,43 @@
       2. Data Preprocessing
       3. Feature Engineering
       4. Modeling
-      5. 
+   
 ### 2.1.1. Exploratory Data Analysis
 - 탐색적 데이터 분석은 데이터를 가지고 유연하게 데이터를 탐색하고 데이터의 특징과 구조로부터 얻은 정보를 시각화하는 분석방법이다. 탐색적 데이터 분석은 본격적인 모델링을 시작하기 전 선행되어야한다.
 
-- Exploratory Data Analysis   
-    1. 문제 정의
-    2. 시각화 & 변수탐색
-    3. 결측치, 이상치 탐지 
+- Exploratory Data Analysis
+  
+        1. 문제 정의 
+        2. 시각화 & 변수탐색
+        3. 결측치, 이상치 탐지
+  
 ### 2.1.2. Data Preprocessing
 - 데이터 전처리는 데이터 분석 과정의 대부분을 차지할 정도로 굉장히 중요한 작업이다. Data set은 보통 바로 분석이 불가능하다.(Messy 하기 때문) 분석이 가능한 상태로 만드는 것이 데이터 전처리이다. 
 
-- Data Preprocessing   
-    1. 적절한 데이터 처리
-    2. 정규화
-    3. 교차검증 설정 
+- Data Preprocessing
+   
+        1. 적절한 데이터 처리
+        2. 정규화
+        3. 교차검증 설정
+ 
 ### 2.1.3. Feature Engineering
 - Feature Engineering은 데이터에 대한 도메인 지식을 활용하여 특징(Feature)를 만들어내는 과정이다. 모델을 위한 데이터 테이블의 컬럼(특징)을 생성하거나 선택하는 작업을 의미한다. Feature Engineering은 모델 성능에 미치는 영향이 크기 때문에 굉장히 중요한 단계이며, 전문성과 시간과 비용이 많이 드는 작업이다.
 
 - Feature Engineering  
-    1. 변수 생성
-    2. 자원 축소
-    4. 특징 추출 
+ 
+       1. 변수 생성
+       2. 자원 축소
+       3. 특징 추출 
+    
 ### 2.1.4. Modeling
 - dd
 
-- Modeling 
-    1. 예측 모델링
-    2. 분류 모델링
-    3. 결과 해석 
+- Modeling  
+ 
+      1. 예측 모델링
+      2. 분류 모델링
+      3. 결과 해석 
+    
  # 관련 라이브러리
  ## 1.1. Pandas
  - Pandas는 데이터 조작 및 분석을 위해 Python 프로그래밍 언어로 작성된 소프트웨어 라이브러리이다. 특히 숫자 Table과 시계열을 조작하기 위한 데이터 구조와 연산을 제공한다.
@@ -102,9 +110,24 @@ DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
        3. Box-plot
        '''
 ### 1.2.1 시각화 예시
-1.
+### 1.2.2 pearson's correlation coefficient
+- 피어슨 상관 계수란 두 변수 X 와 Y 간의 선형 상관 관계를 계량화한 수치다.
+#### 양적인 두 변수 간의 관계
+- case 1 + x 증가 y 증가
+- case 2 - x증가 y 감소
+- case 3 x x,y의 관계가 없다.
 
-### 1.2.2 outliar(이상치)
+       corr은 correlation의 약자
+       상관계수 [-1~1] 0이면 관계가 없다.
+       +-0.3이상이면 관계가 있지만 정도는 약하다.
+       
+### ex. corr()<br>
+
+![corr](https://user-images.githubusercontent.com/81912557/137142706-d95a6e10-0cfd-46be-8671-a2307ab4e35e.PNG)
+
+
+
+### 1.2.3 outliar(이상치)
 - 전체적인 Data/Model에서 동떨어진 관측값으로 Model을 크게 왜곡 시킬 가능성이 있음.
 - 일반적으로 6σ(표준편차) 즉 +- 3표준편차에 해당하는 값을 이상치라고 봄
 - 목적과 자료에따라 3σ,4σ,5σ로도 설정.
@@ -126,7 +149,7 @@ DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
   2. resampling<br>
   3. case 분리 해석<br>
 
-ex. Boxplot을 이용한 이상치 검색
+ex. Boxplot을 이용한 이상치 검색<br>
 ![out](https://user-images.githubusercontent.com/81912557/137131457-4417ce30-8a57-46f9-bda9-f261ae6b7579.PNG)
 
 
