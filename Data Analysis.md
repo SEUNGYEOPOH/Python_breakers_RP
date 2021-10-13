@@ -57,8 +57,8 @@
        
   ### 1.1.2 DataFrame
   Dataframe은 2차원 배열의 형태를 갖는다. index와 column이라는 두 가지 기준에 의하여 표 형태처럼 Data가 저장된다.<br>
-  흔히 알고 있는 Table형태와 동일하다.
-![dataframe](https://user-images.githubusercontent.com/81912557/137123523-056f23e0-c8fc-44eb-b250-9e70a96ef0a7.PNG)
+  흔히 알고 있는 Table형태와 동일하다.<br>
+![dataframe](https://user-images.githubusercontent.com/81912557/137123523-056f23e0-c8fc-44eb-b250-9e70a96ef0a7.PNG)<br>
 - DataFrame은 다양한 format으로 import.export하여 다른 파일을 읽어올 수 있다.(csv,excel,json 등)
 - DataFrame.loc[인덱스 이름] or DataFrame.iloc[정수형 위치 인덱스]로 행에 대해 접근할 수 있다.
 - DataFrame.[열이름] or DataFrame.[정수형 위치 인덱스]로 열에 대해 접근할 수 있다.
