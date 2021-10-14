@@ -84,7 +84,7 @@ DataFrame의 정보를 확인할 수 있다.<br>
 DataFrame의 기술통계적인 부분을 확인할 수 있다.<br>
 ![des](https://user-images.githubusercontent.com/81912557/137126481-141b2df1-43e1-49e6-88e8-c0f24bcbde74.PNG)<br>
 
-- 위의 horsepower 컬럼의 NaN 값이 있으므로 결측치거 있음을 알 수 있다. -> 해당 컬럼은 float형태인데 결측값이 ?로 들어가서 NaN이 나온 상황
+- 위의 horsepower 컬럼의 NaN 값이 있으므로 결측치가 있음을 알 수 있다. -> 해당 컬럼은 float형태인데 결측값이 ?로 들어가서 NaN이 나온 상황
 
       결측치 처리 방법
       1.평균 값으로 대체
