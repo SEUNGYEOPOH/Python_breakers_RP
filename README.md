@@ -58,6 +58,7 @@
   
 ## last week : Conference
 - ♾️ project : [project](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/ML.ipynb)
+- 📰 project_PDF : [PDF](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/project.pdf)
 <Br>
   
 # 🎖️ Next level
