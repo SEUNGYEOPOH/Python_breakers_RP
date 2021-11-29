@@ -55,6 +55,9 @@
 ## weeks 8 : 복습
 - 🌑 quest6 : [qeust6](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/Data%20Analysis.md)
 
+## last week : Conference
+- ♾️ project : [project](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/ML.ipynb)
+  
 # 🎖️ Next level
 - Machine Learning 공부 및 배운내용 적용하기<br>
  [ML공부](https://github.com/SEUNGYEOPOH/ML/blob/main/README.md)
